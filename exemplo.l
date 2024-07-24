@@ -33,8 +33,8 @@ int main(int argc, char *argv[]) {
     // yyin = fopen("teste.txt", "r");
     // if(yyin == NULL) exit(1);
 
-    argv[0]  argv[1]
-    main     teste.txt
+    // argv[0]  argv[1]
+    // main     teste.txt
     yyin = fopen(argv[1], "r");
     if(yyin == NULL) exit(1);
 
