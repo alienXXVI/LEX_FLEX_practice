@@ -1,0 +1,4 @@
+-- COMPILAÇÃO --
+lex ex1.l
+gcc lex.yy.c -o main
+.\main
